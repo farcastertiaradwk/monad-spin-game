@@ -1,0 +1,14 @@
+# 1. Initialize git
+git init
+
+# 2. Add semua file
+git add .
+
+# 3. Commit pertama
+git commit -m "Initial commit - Monad Spin Game"
+
+# 4. Add remote repository (ganti USERNAME dengan username GitHub Anda)
+git remote add origin https://github.com/USERNAME/monad-spin-game.git
+
+# 5. Push ke GitHub
+git push -u origin main
